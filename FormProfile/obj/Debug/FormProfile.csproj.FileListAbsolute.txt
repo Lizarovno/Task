@@ -1,0 +1,105 @@
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\FormProfile.exe.config
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\FormProfile.exe
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\FormProfile.pdb
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.Properties.Resources.resources
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.csproj.GenerateResource.Cache
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.exe
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.pdb
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormProfile.resources
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormEditEducation.resources
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormEditExpirience.resources
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormEditName.resources
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.csprojResolveAssemblyReference.cache
+C:\Users\Жорик и Лиз\Desktop\Новая папка\FormProfile\bin\Debug\FormProfile.exe.config
+C:\Users\Жорик и Лиз\Desktop\Новая папка\FormProfile\obj\Debug\FormProfile.exe
+C:\Users\Жорик и Лиз\Desktop\Новая папка\FormProfile\obj\Debug\FormProfile.pdb
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\FormProfile.exe.config
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.exe
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.pdb
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\FormProfile.exe
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\FormProfile.pdb
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.csprojResolveAssemblyReference.cache
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.FormEditName.resources
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.FormProfile.resources
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.FormEditEducation.resources
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.FormEditExpirience.resources
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.Properties.Resources.resources
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.csproj.GenerateResource.Cache
+D:\проэкты\ProfileManager\FormProfile\obj\Debug\FormProfile.FormSwitchUser.resources
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\ProfileManagerDatabase.mdf
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\ProfileManagerDatabase_log.ldf
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\DAL.dll
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\EntityFramework.dll
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\Models.dll
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\DAL.pdb
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\EntityFramework.xml
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\Models.pdb
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\EntityFramework.SqlServer.dll
+D:\проэкты\ProfileManager\FormProfile\bin\Debug\EntityFramework.SqlServer.xml
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\FormProfile.exe.config
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.exe
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.pdb
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\LocalDB.mdf
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\LocalDB_log.ldf
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\FormProfile.exe
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\FormProfile.pdb
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\DAL.dll
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\EntityFramework.dll
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\DAL.pdb
+D:\проэкты\ProfManagerSmartTask\FormProfile\bin\Debug\EntityFramework.xml
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.csprojResolveAssemblyReference.cache
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.FormEditName.resources
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.FormProfile.resources
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.FormEditEducation.resources
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.FormEditExpirience.resources
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.FormSwitchUser.resources
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.Properties.Resources.resources
+D:\проэкты\ProfManagerSmartTask\FormProfile\obj\Debug\FormProfile.csproj.GenerateResource.Cache
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormSwitchUser.resources
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\DBSmartTestTask.mdf
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\DBSmartTestTask_log.ldf
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\DAL.dll
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\EntityFramework.dll
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\DAL.pdb
+D:\проэкты\SmartTestTask\FormProfile\bin\Debug\EntityFramework.xml
+D:\проэкты\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormEditeSkills.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\FormProfile.exe.config
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\DBSmartTestTask.mdf
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\DBSmartTestTask_log.ldf
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\FormProfile.exe
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\FormProfile.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\DAL.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\EntityFramework.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\DAL.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\bin\Debug\EntityFramework.xml
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.csprojResolveAssemblyReference.cache
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.FormEditeSkills.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.FormEditName.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.FormProfile.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.FormEditEducation.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.FormEditExpirience.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.FormSwitchUser.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.Properties.Resources.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.csproj.GenerateResource.Cache
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.exe
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\FormProfile\obj\Debug\FormProfile.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\FormProfile.exe.config
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.exe
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\DBSmartTestTask.mdf
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\DBSmartTestTask_log.ldf
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\FormProfile.exe
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\FormProfile.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\DAL.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\EntityFramework.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\DAL.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\bin\Debug\EntityFramework.xml
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.csprojResolveAssemblyReference.cache
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormEditeSkills.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormEditName.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormProfile.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormEditEducation.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormEditExpirience.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.FormSwitchUser.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.Properties.Resources.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\FormProfile\obj\Debug\FormProfile.csproj.GenerateResource.Cache

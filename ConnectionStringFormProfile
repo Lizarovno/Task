@@ -1,0 +1,3 @@
+  <connectionStrings>
+    <add name="Context" connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\DBSmartTestTask.mdf;Integrated Security=True" providerName="System.Data.SqlClient" />
+  </connectionStrings>

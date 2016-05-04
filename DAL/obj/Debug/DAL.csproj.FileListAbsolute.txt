@@ -1,0 +1,57 @@
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.Migrations.Create.resources
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\проэкты\SmartTestTask\DAL\bin\Debug\DBSmartTestTask.mdf
+D:\проэкты\SmartTestTask\DAL\bin\Debug\DBSmartTestTask_log.ldf
+D:\проэкты\SmartTestTask\DAL\bin\Debug\DAL.dll.config
+D:\проэкты\SmartTestTask\DAL\bin\Debug\DAL.dll
+D:\проэкты\SmartTestTask\DAL\bin\Debug\DAL.pdb
+D:\проэкты\SmartTestTask\DAL\bin\Debug\EntityFramework.dll
+D:\проэкты\SmartTestTask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\проэкты\SmartTestTask\DAL\bin\Debug\EntityFramework.xml
+D:\проэкты\SmartTestTask\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.dll
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.pdb
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.Migrations.addEducIDinProfileandExpIDinProfile.resources
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.Migrations.FixSkillIdtoINT.resources
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.Migrations.delSkills.resources
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.Migrations.addnewSkills.resources
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.Migrations.addEmailinUser.resources
+D:\проэкты\SmartTestTask\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\DBSmartTestTask.mdf
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\DBSmartTestTask_log.ldf
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\DAL.dll.config
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\DAL.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\DAL.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.Migrations.Create.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.Migrations.addEducIDinProfileandExpIDinProfile.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.Migrations.FixSkillIdtoINT.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.Migrations.delSkills.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.Migrations.addnewSkills.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.Migrations.addEmailinUser.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask-master\DAL\obj\Debug\DAL.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\DBSmartTestTask.mdf
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\DBSmartTestTask_log.ldf
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\DAL.dll.config
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\DAL.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\DAL.pdb
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.Migrations.Create.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.Migrations.addEducIDinProfileandExpIDinProfile.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.Migrations.FixSkillIdtoINT.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.Migrations.delSkills.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.Migrations.addnewSkills.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.Migrations.addEmailinUser.resources
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.dll
+C:\Users\Жорик и Лиз\Desktop\SmartTestTask\DAL\obj\Debug\DAL.pdb
